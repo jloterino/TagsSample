@@ -1,0 +1,2 @@
+CHANGELOG v1.0:
+    - Creación del proyecto inicial para crear TAGS.
